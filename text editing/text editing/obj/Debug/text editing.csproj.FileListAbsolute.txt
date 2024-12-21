@@ -1,0 +1,11 @@
+C:\Users\SSoni\source\repos\text editing\text editing\bin\Debug\text editing.exe.config
+C:\Users\SSoni\source\repos\text editing\text editing\bin\Debug\text editing.exe
+C:\Users\SSoni\source\repos\text editing\text editing\bin\Debug\text editing.pdb
+C:\Users\SSoni\source\repos\text editing\text editing\obj\Debug\text editing.csproj.AssemblyReference.cache
+C:\Users\SSoni\source\repos\text editing\text editing\obj\Debug\text_editing.EditForm.resources
+C:\Users\SSoni\source\repos\text editing\text editing\obj\Debug\text_editing.MainForm.resources
+C:\Users\SSoni\source\repos\text editing\text editing\obj\Debug\text_editing.Properties.Resources.resources
+C:\Users\SSoni\source\repos\text editing\text editing\obj\Debug\text editing.csproj.GenerateResource.cache
+C:\Users\SSoni\source\repos\text editing\text editing\obj\Debug\text editing.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\source\repos\text editing\text editing\obj\Debug\text editing.exe
+C:\Users\SSoni\source\repos\text editing\text editing\obj\Debug\text editing.pdb
