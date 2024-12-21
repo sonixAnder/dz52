@@ -1,0 +1,17 @@
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\bin\Debug\net6.0-windows\sale of computer components.exe
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\bin\Debug\net6.0-windows\sale of computer components.deps.json
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\bin\Debug\net6.0-windows\sale of computer components.runtimeconfig.json
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\bin\Debug\net6.0-windows\sale of computer components.dll
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\bin\Debug\net6.0-windows\sale of computer components.pdb
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\obj\Debug\net6.0-windows\sale_of_computer_components.FormSales.resources
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\obj\Debug\net6.0-windows\sale_of_computer_components.FormManageProducts.resources
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\obj\Debug\net6.0-windows\sale of computer components.csproj.GenerateResource.cache
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\obj\Debug\net6.0-windows\sale of computer components.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\obj\Debug\net6.0-windows\sale of computer components.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\obj\Debug\net6.0-windows\sale of computer components.AssemblyInfo.cs
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\obj\Debug\net6.0-windows\sale of computer components.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\obj\Debug\net6.0-windows\sale of computer components.dll
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\obj\Debug\net6.0-windows\refint\sale of computer components.dll
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\obj\Debug\net6.0-windows\sale of computer components.pdb
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\obj\Debug\net6.0-windows\sale of computer components.genruntimeconfig.cache
+C:\Users\student\Desktop\sonix\sale of computer components\sale of computer components\obj\Debug\net6.0-windows\ref\sale of computer components.dll
